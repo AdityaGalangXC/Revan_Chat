@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="text_sign_up">I don\'t have an account</string>
+    <string name="button_register">Register</string>
+    <string name="login_successful">Login successful</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    <string name="registration_successful">Registration successful</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="app_name">Revan Chat</string>
+    <!-- Add these lines for the new strings -->
+    <string name="input_email">Please input email!!</string>
+    <string name="input_password">Please input password!!</string>
+    <string name="login_failed">Login Failed</string>
+
+</resources>

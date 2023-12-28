@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417994454216",
+    "project_id": "revanchat-fea10",
+    "storage_bucket": "revanchat-fea10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417994454216:android:88f350918e8069860a61fd",
+        "android_client_info": {
+          "package_name": "com.revandika.revanchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5liAA1NOYDRXT4jYe-S-L89Ywv25UWe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
